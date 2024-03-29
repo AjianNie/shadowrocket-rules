@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240329164337
+#VER=20240330010425
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=97964
+#TOTAL_LINES=97958
 
 #DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 .0008d6ba2e.com
@@ -16109,8 +16109,6 @@
 .sw.cailawyer.cn
 .caimoasy.net
 .cainauhi.xyz
-.v6-adashx.ut.cainiao.com
-.vip.cainiaofx.com
 .21udflra4wd.app-dev.cainthus.com
 .p7h1silo3f.app.cainthus.com
 .isjoui.cainz.com
@@ -77788,7 +77786,6 @@
 .bds.snssdk.com
 .extlog.snssdk.com
 .i.snssdk.com
-.ib.snssdk.com
 .log.snssdk.com
 .mcs.snssdk.com
 .mercury-sdk.snssdk.com
@@ -81739,7 +81736,6 @@
 .adashx4yt.m.taobao.com
 .adashxgc.ut.taobao.com
 .amdcopen.m.taobao.com
-.audid-api.taobao.com
 .bcfeedback.taobao.com
 .detail.taobao.com
 .fourier.taobao.com
@@ -81772,7 +81768,6 @@
 .intl.wapa.taobao.com
 .intl.waptest.taobao.com
 .m-adash.m.taobao.com
-.m.intl.taobao.com
 .m.simba.taobao.com
 .mclick.simba.taobao.com
 .nbsdk-baichuan.taobao.com
@@ -85527,7 +85522,6 @@
 .affiliate.tripact.jp
 .say.hello.tripactions.com
 .wepany.tripbeat.com
-.ak-d.tripcdn.com
 .bnc.tripcody.com
 .branch.tripcody.com
 .branchlink.tripcody.com
